@@ -1,0 +1,7 @@
+{
+    "url": "freecodecamp.hashbase.io",
+    "title": "freeCodeCamp",
+    "description": "freeCodeCamp on the Dat:// Protocol",
+    "web_root": "/client/public",
+    "fallback_page": "/client/public/index.html"
+}
